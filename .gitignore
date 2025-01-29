@@ -4,3 +4,4 @@ bin/
 *.rom
 temp/
 *.1
+.swiftpm
